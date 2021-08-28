@@ -12,35 +12,39 @@ Then we will oversample the data using the RandomOversampler and Smote Algorithm
     * The balanced accuracy score is 65%
     * The percision for high risk is low at  1%
     * with a recall of 69%
-    *
+    * ![NaiveOvrSampl.PNG](images/NaiveOvrSampl.PNG)
 
 - Smote Oversampling results:
     * The accuracy score is 66%
     * The percision for high risk is low at  1%
     * with a recall of 69%
+    * ![SmoteOvrSampl.PNG](images/SmoteOvrSampl.PNG)
 
 
 - Undersampling results:
     * The balanced accuracy score is 54%
     * The percision total is at 99%
     * with a recall of 40%
+    * * ![UndersampleResults.PNG](images/UndersampleResults.PNG)
 
 
 - Combined over and under sampling results:
     * The balanced accuracy score is 54%
     * The percision total is at  99%
     * with a recall of 40% over
-
+    * * ![CombOvrUndrResults.PNG](images/CombOvrUndrResults.PNG)
 
 - Balanced Random Forest Classifier results:
     * The accuracy score is 78%
     * The percision total is at 99%
     * with a recall of 88%
+    * * ![Balanced.PNG](images/Balanced.PNG)
 
 - Easy Ensemble AdaBoost Classifier results:
     * The balanced accuracy score is 92%
     * The percision total is at 99%
     * with a recall of 94%
+    * * ![EasyEnsemble.PNG](images/EasyEnsemble.PNG)
 
 ## Summary: 
 
