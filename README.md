@@ -37,7 +37,7 @@ Then we will oversample the data using the RandomOversampler and Smote Algorithm
     * The percision total is at 99%
     * with a recall of 88%
 
-- Naive Random Oversampling results:
+- Easy Ensemble AdaBoost Classifier results:
     * The balanced accuracy score is 92%
     * The percision total is at 99%
     * with a recall of 94%
